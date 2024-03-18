@@ -1,0 +1,26 @@
+/* Tipografías:
+● Poppins (Sacar desde Google Fonts)
+font-weight
+● Poppins Regular (400)
+● Poppins Medium (500)
+● Poppins Bold (700)
+Colores:
+● #000000
+● #E93E30
+● #F7E018
+● #299ED5
+● #292C33
+● #67C770
+● #563D7C */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.body{
+    font-family: "Poppins", sans-serif;
+}
